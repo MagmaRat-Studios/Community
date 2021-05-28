@@ -1,1 +1,1 @@
-# SUBMIT YOUR PULL REQUESTS FOR A PROFILE HERE!!
+<img align="left" width="32" height="32" src="https://raw.githubusercontent.com/MagmaRat-Studios/Community/main/ADMINS%20ONLY/GitHub-Mark-Light-32px.png"><h2>SUBMIT YOUR PULL REQUESTS FOR A PROFILE HERE!!<h2>
