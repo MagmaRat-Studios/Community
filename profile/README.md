@@ -21,7 +21,7 @@ Alright on to the steps now.
 * Bio (**optional but suggested**)
 * Contact information (**optional**)
 
-2. Sumbit a pull request to add this to the [personal profiles](https://github.com/MagmaRat-Studios/Community/tree/main/profile/personal%20profiles) repository
+2. Submit a pull request to add this to the [personal profiles](https://github.com/MagmaRat-Studios/Community/tree/main/profile/personal%20profiles) repository
 3. We will review your pull request and if all goes well we'll put it through!
    * We can take up to 10 DAYS for a request to go through, if nothing happens after that, submit another pull request and we'll try and get back to you sooner.
 
