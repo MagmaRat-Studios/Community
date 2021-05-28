@@ -28,4 +28,6 @@ and closely view and monitor what people want to upload and change.
 
 Remember to read the information provided in the [Main Profile](https://github.com/MagmaRat-Studios/Community/tree/main/profile) page.
 
+![CI](https://github.com/MagmaRat-Studios/Community/actions/workflows/blank.yml/badge.svg)
+<br> </br>
 **. . .**
