@@ -1,5 +1,5 @@
-# Community
 # The MagmaRat Studios Community Repo
+![MagmaRat Studios Logo](https://raw.githubusercontent.com/MagmaRat-Studios/Community/main/ADMINS%20ONLY/magmaratgoldlogo-FULLTRANSPARENT.png)
 
 ### Here in the MagmaRat Studios Community Repository, you are allowed to submit pull requests to do a number of things like...
 
